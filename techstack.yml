@@ -1,0 +1,1521 @@
+repo_name: larabecker/Html5GroupIntroToEmberJsAug20
+report_id: e8b329f2f5079301576be7079ec2ac0d
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-15T18:02:09+00:00'
+requested_by: Sjetware
+provider: github
+branch: master
+detected_tools_count: 98
+tools:
+- name: ASP.NET
+  description: An open source web framework for building modern web apps and services
+    with .NET
+  website_url: https://www.asp.net/
+  version: '4.5'
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6755/2c45151a4a11d3a3c8e71bb34dd069d6_400x400.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/SetupSample/SetupSample.csproj
+  detection_source: SetupSample/SetupSample.csproj
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:18:27.000000000 Z
+- name: C#
+  description: Simple, general-purpose, object-oriented programming language for the
+    .NET platform
+  website_url: http://csharp.net
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20
+  detection_source: Repo Metadata
+- name: Handlebars.js
+  description: Minimal Templating on Steroids
+  website_url: http://handlebarsjs.com/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/service/1143/Handlebars.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20
+  detection_source: Repo Metadata
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/Npm.1.4.4/node_modules/npm/package.json
+  detection_source: packages/Npm.1.4.4/node_modules/npm/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+- name: Ruby
+  description: A dynamic, interpreted, open source programming language with a focus
+    on simplicity and productivity
+  website_url: https://www.ruby-lang.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/Npm.1.4.4/node_modules/npm/package.json
+  detection_source: packages/Npm.1.4.4/node_modules/npm/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+- name: ".NET"
+  description: A free, cross-platform, open source developer platform for building
+    many different types of applications
+  website_url: http://www.microsoft.com/net/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/Npm.1.4.4/node_modules/npm/node_modules/lockfile/package.json
+  detection_source: packages/Npm.1.4.4/node_modules/npm/node_modules/lockfile/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  version: 0.10.26
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/SetupSample/packages.config
+  detection_source: SetupSample/packages.config
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:18:27.000000000 Z
+- name: jQuery
+  description: The Write Less, Do More, JavaScript Library.
+  website_url: http://jquery.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/SetupSample/packages.config
+  detection_source: SetupSample/packages.config
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:18:27.000000000 Z
+- name: Chai
+  description: A BDD / TDD assertion library
+  website_url: http://chaijs.com/
+  version: 1.8.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/1725/chai.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/NoGit.0.0.5/node_modules/nogit/node_modules/archiver/node_modules/zip-stream/package.json
+  detection_source: packages/NoGit.0.0.5/node_modules/nogit/node_modules/archiver/node_modules/zip-stream/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+- name: Eclipse
+  description: IDE for Java EE Developers
+  website_url: https://www.eclipse.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Integrated Development Environment
+  image_url: https://img.stackshare.io/service/1446/8cyY6D_m.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/Npm.1.4.4/node_modules/npm/node_modules/node-gyp/gyp/pylib/gyp/generator/eclipse.py
+  detection_source: packages/Npm.1.4.4/node_modules/npm/node_modules/node-gyp/gyp/pylib/gyp/generator/eclipse.py
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20
+  detection_source: Repo Metadata
+- name: Grunt
+  description: The JavaScript Task Runner
+  website_url: http://gruntjs.com/
+  version: 0.4.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/845/falgg2jybmhgk16y62lr.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/Grunt.0.1.13/node_modules/grunt-cli/node_modules/findup-sync/package.json
+  detection_source: packages/Grunt.0.1.13/node_modules/grunt-cli/node_modules/findup-sync/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+- name: Istanbul
+  description: A JS code coverage tool written in JS
+  website_url: http://gotwarlost.github.io/istanbul/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Coverage
+  image_url: https://img.stackshare.io/service/2105/default_78659c552327b8ff3592c2aa1694ea92c974a8d5.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/Npm.1.4.4/node_modules/npm/node_modules/request/node_modules/tough-cookie/node_modules/punycode/package.json
+  detection_source: packages/Npm.1.4.4/node_modules/npm/node_modules/request/node_modules/tough-cookie/node_modules/punycode/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+- name: JSHint
+  description: A Static Code Analysis Tool for JavaScript
+  website_url: http://www.jshint.com/about/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/1945/mzh2bRes_400x400.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/Npm.1.4.4/node_modules/npm/node_modules/opener/package.json
+  detection_source: packages/Npm.1.4.4/node_modules/npm/node_modules/opener/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+- name: Mocha
+  description: Simple, flexible, fun javascript test framework for node.js &amp; the
+    browser
+  website_url: http://mochajs.org/
+  version: 1.16.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/832/mocha.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/NoGit.0.0.5/node_modules/nogit/node_modules/archiver/node_modules/zip-stream/package.json
+  detection_source: packages/NoGit.0.0.5/node_modules/nogit/node_modules/archiver/node_modules/file-utils/node_modules/isbinaryfile/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+- name: NuGet
+  description: The package manager for .NET
+  website_url: https://www.nuget.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/Npm.1.4.4/node_modules/npm/node_modules/lockfile/package.json
+  detection_source: packages/Npm.1.4.4/node_modules/npm/node_modules/lockfile/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+- name: PyPI
+  description: A repository of software for the Python programming language
+  website_url: https://pypi.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Hosted Package Repository
+  image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/Npm.1.4.4/node_modules/npm/package.json
+  detection_source: packages/Npm.1.4.4/node_modules/npm/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+- name: QUnit
+  description: A JavaScript Unit Testing framework
+  website_url: http://qunitjs.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/1421/b706f022230831a3d391db504a139e21.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/Npm.1.4.4/node_modules/npm/node_modules/request/node_modules/tough-cookie/node_modules/punycode/package.json
+  detection_source: packages/Npm.1.4.4/node_modules/npm/node_modules/request/node_modules/tough-cookie/node_modules/punycode/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+- name: RequireJS
+  description: JavaScript file and module loader
+  website_url: http://requirejs.org/
+  version: 2.1.6
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/852/1781835.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/Npm.1.4.4/node_modules/npm/node_modules/request/node_modules/tough-cookie/node_modules/punycode/package.json
+  detection_source: packages/Npm.1.4.4/node_modules/npm/node_modules/request/node_modules/tough-cookie/node_modules/punycode/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+- name: RubyGems
+  description: Easily download, install, and use ruby software packages on your system
+  website_url: https://rubygems.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/Npm.1.4.4/node_modules/npm/package.json
+  detection_source: packages/Npm.1.4.4/node_modules/npm/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+- name: Visual Studio
+  description: State-of-the-art tools and services that you can use to create great
+    apps for devices, the cloud, and everything in between.
+  website_url: http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Integrated Development Environment
+  image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/SetupSample.sln
+  detection_source: SetupSample.sln
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/SetupSample/packages.config
+  detection_source: SetupSample/packages.config
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:18:27.000000000 Z
+- name: Lodash
+  description: A JavaScript utility library
+  website_url: https://lodash.com
+  version: 1.0.1
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/2438/lodash.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/Grunt.0.1.13/node_modules/grunt-cli/node_modules/findup-sync/package.json
+  detection_source: packages/Grunt.0.1.13/node_modules/grunt-cli/node_modules/findup-sync/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+- name: Tape
+  description: 'i''m the package manager for javascript. problems? try @npm_support
+    and #npm on freenode.'
+  website_url: https://www.npmjs.com/package/tape
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/3722/lejvzrnlpb308aftn31u_normal.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/NoGit.0.0.5/node_modules/nogit/node_modules/git-node/node_modules/js-git/node_modules/git-pack-codec/node_modules/varint/package.json
+  detection_source: packages/NoGit.0.0.5/node_modules/nogit/node_modules/git-node/node_modules/js-git/node_modules/git-pack-codec/node_modules/varint/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+- name: Underscore
+  description: JavaScript's utility _ belt
+  website_url: http://underscorejs.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/1150/underscore-js.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/Npm.1.4.4/node_modules/npm/node_modules/read-package-json/node_modules/normalize-package-data/package.json
+  detection_source: packages/Npm.1.4.4/node_modules/npm/node_modules/read-package-json/node_modules/normalize-package-data/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+- name: abbrev
+  description: Like ruby's abbrev module, but in js
+  package_url: https://www.npmjs.com/abbrev
+  version: 1.0.4
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18429/default_6d9edf4cb72e43af502b5377a9f3710f31457feb.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/Npm.1.4.4/node_modules/npm/package.json
+  detection_source: packages/Grunt.0.1.13/node_modules/grunt-cli/node_modules/nopt/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+- name: ansi
+  description: Advanced ANSI formatting tool for Node.js
+  package_url: https://www.npmjs.com/ansi
+  version: 0.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18744/default_a0c218dcb961fccae1cb03e431692daad86f7866.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/Npm.1.4.4/node_modules/npm/node_modules/npmlog/package.json
+  detection_source: packages/Npm.1.4.4/node_modules/npm/node_modules/npmlog/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+- name: archiver
+  description: A streaming interface for archive generation
+  package_url: https://www.npmjs.com/archiver
+  version: 0.6.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16407/default_4cc3f31b8c64a6268fc123f0965a09d1b11180af.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/NoGit.0.0.5/node_modules/nogit/package.json
+  detection_source: packages/NoGit.0.0.5/node_modules/nogit/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+- name: archy
+  description: Render nested hierarchies `npm ls` style with unicode pipes
+  package_url: https://www.npmjs.com/archy
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18325/default_b0d06180669cf53f2469ea77b53b5911d72482d5.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/Npm.1.4.4/node_modules/npm/package.json
+  detection_source: packages/Npm.1.4.4/node_modules/npm/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+- name: assert-plus
+  description: Extra assertions on top of node's assert module
+  package_url: https://www.npmjs.com/assert-plus
+  version: 0.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17304/default_3ec53c4dad64de27b72cc81401e898b5aea82f2c.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/Npm.1.4.4/node_modules/npm/node_modules/request/node_modules/http-signature/package.json
+  detection_source: packages/Npm.1.4.4/node_modules/npm/node_modules/request/node_modules/http-signature/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+- name: async
+  description: Higher-order functions and common patterns for asynchronous code
+  package_url: https://www.npmjs.com/async
+  version: 0.2.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15851/default_a2f722724df977d0f7752839e5d8845ab41f69d5.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/Npm.1.4.4/node_modules/npm/node_modules/read-package-json/node_modules/normalize-package-data/package.json
+  detection_source: packages/Npm.1.4.4/node_modules/npm/node_modules/read-package-json/node_modules/normalize-package-data/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+- name: better-assert
+  description: Better assertions for node
+  package_url: https://www.npmjs.com/better-assert
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18104/image.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/Npm.1.4.4/node_modules/npm/node_modules/github-url-from-git/package.json
+  detection_source: packages/Npm.1.4.4/node_modules/npm/node_modules/github-url-from-git/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+- name: boom
+  description: HTTP-friendly error objects
+  package_url: https://www.npmjs.com/boom
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16524/default_2e7c1d6d94467a56325f7c984571015e8713a450.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/Npm.1.4.4/node_modules/npm/node_modules/request/node_modules/hawk/node_modules/cryptiles/package.json
+  detection_source: packages/Npm.1.4.4/node_modules/npm/node_modules/request/node_modules/hawk/node_modules/cryptiles/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+- name: cli-color
+  description: Colors, formatting and other tools for the console
+  package_url: https://www.npmjs.com/cli-color
+  version: 0.2.3
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16493/default_e8b43b4cc93dd2989e630d56550f589fccdcda03.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/Npm.1.4.4/node_modules/npm/node_modules/text-table/package.json
+  detection_source: packages/Npm.1.4.4/node_modules/npm/node_modules/text-table/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+- name: columnify
+  description: Render data in text columns. Supports in-column text-wrap
+  package_url: https://www.npmjs.com/columnify
+  version: 0.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17942/default_cc042fd7c0a9cf091d301af307c99c8b7b08b8bc.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/Npm.1.4.4/node_modules/npm/package.json
+  detection_source: packages/Npm.1.4.4/node_modules/npm/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+- name: commander
+  description: The complete solution for node.js command-line programs
+  package_url: https://www.npmjs.com/commander
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15829/default_50135978d26eba7c09093ceb23b96d522898e4eb.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/NoGit.0.0.5/node_modules/nogit/package.json
+  detection_source: packages/NoGit.0.0.5/node_modules/nogit/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+- name: cryptiles
+  description: General purpose crypto utilities
+  package_url: https://www.npmjs.com/cryptiles
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18519/default_322e81fd717d0d158a53deaa1bfac3577d9fc2b2.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/Npm.1.4.4/node_modules/npm/node_modules/request/node_modules/hawk/package.json
+  detection_source: packages/Npm.1.4.4/node_modules/npm/node_modules/request/node_modules/hawk/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+- name: debug
+  description: Small debugging utility
+  package_url: https://www.npmjs.com/debug
+  version: 0.7.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15852/default_a2f722724df977d0f7752839e5d8845ab41f69d5.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/NoGit.0.0.5/node_modules/nogit/node_modules/archiver/node_modules/zip-stream/package.json
+  detection_source: packages/NoGit.0.0.5/node_modules/nogit/node_modules/archiver/node_modules/zip-stream/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+  vulnerabilities:
+  - name: debug Inefficient Regular Expression Complexity vulnerability
+    cve_id: CVE-2017-20165
+    cve_url: https://github.com/advisories/GHSA-9vvw-cc9w-f27h
+    detected_date: Jan 11
+    severity: high
+    first_patched: 2.6.9
+  - name: Regular Expression Denial of Service in debug
+    cve_id: CVE-2017-16137
+    cve_url: https://github.com/advisories/GHSA-gxpj-cx7g-858c
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 2.6.9
+- name: expect.js
+  description: BDD style assertions for node and the browser
+  package_url: https://www.npmjs.com/expect.js
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16029/default_261820f5687b4c88a3e8f95c71b5e8dccd34c1d7.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/Npm.1.4.4/node_modules/npm/node_modules/request/node_modules/qs/package.json
+  detection_source: packages/Npm.1.4.4/node_modules/npm/node_modules/request/node_modules/qs/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+- name: findup-sync
+  description: Find the first file matching a given pattern in the current directory
+    or the nearest ancestor directory
+  package_url: https://www.npmjs.com/findup-sync
+  version: 0.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17525/default_3551598c41205d6bdb9267e84e481dd5afeedb46.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/Grunt.0.1.13/node_modules/grunt-cli/package.json
+  detection_source: packages/Grunt.0.1.13/node_modules/grunt-cli/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+- name: form-data
+  description: A library to create readable "multipart/form-data" streams
+  package_url: https://www.npmjs.com/form-data
+  version: 0.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16415/default_aa91da3cee4d961f0eea8ca5de77f399ec7ec794.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/Npm.1.4.4/node_modules/npm/node_modules/request/package.json
+  detection_source: packages/Npm.1.4.4/node_modules/npm/node_modules/request/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+- name: formidable
+  description: A node.js module for parsing form data
+  package_url: https://www.npmjs.com/formidable
+  version: 1.0.14
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16761/default_c11d90814ded8fcd305b22fdc42b42a3111f1f6d.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/Npm.1.4.4/node_modules/npm/node_modules/request/node_modules/form-data/package.json
+  detection_source: packages/Npm.1.4.4/node_modules/npm/node_modules/request/node_modules/form-data/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+- name: fstream
+  description: Advanced file system stream things
+  package_url: https://www.npmjs.com/fstream
+  version: 0.1.17
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17330/default_1e90600620937d8a59b79d4a426c6d60e5051788.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/Npm.1.4.4/node_modules/npm/node_modules/fstream-npm/node_modules/fstream-ignore/package.json
+  detection_source: packages/Npm.1.4.4/node_modules/npm/node_modules/fstream-npm/node_modules/fstream-ignore/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+  vulnerabilities:
+  - name: Arbitrary File Overwrite in fstream
+    cve_id: CVE-2019-13173
+    cve_url: https://github.com/advisories/GHSA-xf7w-r453-m56c
+    detected_date: Aug 22
+    severity: high
+    first_patched: 1.0.12
+- name: glob
+  description: A little globber
+  package_url: https://www.npmjs.com/glob
+  version: 3.1.21
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15875/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/Grunt.0.1.13/node_modules/grunt-cli/node_modules/findup-sync/package.json
+  detection_source: packages/Grunt.0.1.13/node_modules/grunt-cli/node_modules/findup-sync/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+- name: graceful-fs
+  description: A drop-in replacement for fs, making various improvements
+  package_url: https://www.npmjs.com/graceful-fs
+  version: 1.2.0
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16375/default_c47f6a56d74fae4d4404d77067b2fa35da6f1924.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/Grunt.0.1.13/node_modules/grunt-cli/node_modules/findup-sync/node_modules/glob/package.json
+  detection_source: packages/Grunt.0.1.13/node_modules/grunt-cli/node_modules/findup-sync/node_modules/glob/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+- name: grunt-contrib-concat
+  description: Concatenate files
+  package_url: https://www.npmjs.com/grunt-contrib-concat
+  version: 0.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16075/default_d4e765f8a43dcfd232c8b9ee9732058bc27c727a.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/SetupSample/package.json
+  detection_source: SetupSample/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:18:27.000000000 Z
+- name: grunt-contrib-jshint
+  description: Validate files with JSHint
+  package_url: https://www.npmjs.com/grunt-contrib-jshint
+  version: 0.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15898/default_59a1b5716eefa3750c20936c3d53ff13a6390ee1.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/Grunt.0.1.13/node_modules/grunt-cli/node_modules/findup-sync/package.json
+  detection_source: packages/Grunt.0.1.13/node_modules/grunt-cli/node_modules/findup-sync/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+- name: grunt-contrib-nodeunit
+  description: Run Nodeunit unit tests
+  package_url: https://www.npmjs.com/grunt-contrib-nodeunit
+  version: 0.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16061/default_2640651a9f2aee697089f452de5088fc920bd543.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/Grunt.0.1.13/node_modules/grunt-cli/node_modules/findup-sync/package.json
+  detection_source: packages/Grunt.0.1.13/node_modules/grunt-cli/node_modules/findup-sync/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+- name: grunt-contrib-uglify
+  description: Minify JavaScript files with UglifyJS
+  package_url: https://www.npmjs.com/grunt-contrib-uglify
+  version: 0.2.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15954/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/Npm.1.4.4/node_modules/npm/node_modules/request/node_modules/tough-cookie/node_modules/punycode/package.json
+  detection_source: packages/Npm.1.4.4/node_modules/npm/node_modules/request/node_modules/tough-cookie/node_modules/punycode/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+- name: grunt-contrib-watch
+  description: Run predefined tasks whenever watched file patterns are added
+  package_url: https://www.npmjs.com/grunt-contrib-watch
+  version: 0.5.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15932/default_4dc9671df0093fd7061f6455afdf054e6cc9dacb.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/NoGit.0.0.5/node_modules/nogit/node_modules/archiver/node_modules/file-utils/package.json
+  detection_source: packages/NoGit.0.0.5/node_modules/nogit/node_modules/archiver/node_modules/file-utils/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+- name: grunt-release
+  description: Release a new version of your Node-based project
+  package_url: https://www.npmjs.com/grunt-release
+  version: 0.3.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16336/default_97104dc50154593d2dde1d791400955934c9c715.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/NoGit.0.0.5/node_modules/nogit/node_modules/archiver/node_modules/file-utils/package.json
+  detection_source: packages/NoGit.0.0.5/node_modules/nogit/node_modules/archiver/node_modules/file-utils/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+- name: grunt-shell
+  description: Run shell commands
+  package_url: https://www.npmjs.com/grunt-shell
+  version: 0.2.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16396/default_22cf6cee54c697b5a223902962cc57a55ee80be9.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/Npm.1.4.4/node_modules/npm/node_modules/request/node_modules/tough-cookie/node_modules/punycode/package.json
+  detection_source: packages/Npm.1.4.4/node_modules/npm/node_modules/request/node_modules/tough-cookie/node_modules/punycode/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+- name: hoek
+  description: General purpose node utilities
+  package_url: https://www.npmjs.com/hoek
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16516/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/Npm.1.4.4/node_modules/npm/node_modules/request/node_modules/hawk/node_modules/boom/package.json
+  detection_source: packages/Npm.1.4.4/node_modules/npm/node_modules/request/node_modules/hawk/node_modules/boom/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+- name: iconv
+  description: Text recoding in JavaScript for fun and profit!
+  package_url: https://www.npmjs.com/iconv
+  version: '1.1'
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17911/default_40b5ae806e118a20c1717c75a46652a7358d8b42.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/NoGit.0.0.5/node_modules/nogit/node_modules/archiver/node_modules/file-utils/node_modules/iconv-lite/package.json
+  detection_source: packages/NoGit.0.0.5/node_modules/nogit/node_modules/archiver/node_modules/file-utils/node_modules/iconv-lite/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+- name: iconv-lite
+  description: Convert character encodings in pure javascript
+  package_url: https://www.npmjs.com/iconv-lite
+  version: 0.2.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16350/default_4cc3f31b8c64a6268fc123f0965a09d1b11180af.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/NoGit.0.0.5/node_modules/nogit/node_modules/archiver/node_modules/file-utils/package.json
+  detection_source: packages/NoGit.0.0.5/node_modules/nogit/node_modules/archiver/node_modules/file-utils/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+- name: inherits
+  description: Browser-friendly inheritance fully compatible with standard node.js
+    inherits
+  package_url: https://www.npmjs.com/inherits
+  version: 2.0.0
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16376/default_17385ab3aa01d4c295c08d4a9736140df691c5e9.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/Npm.1.4.4/node_modules/npm/node_modules/block-stream/package.json
+  detection_source: packages/Grunt.0.1.13/node_modules/grunt-cli/node_modules/findup-sync/node_modules/glob/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+- name: ini
+  description: An ini encoder/decoder for node
+  package_url: https://www.npmjs.com/ini
+  version: 1.1.0
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16594/default_ebd83b4f0415be108d977ea72558b13fd7c5283d.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/NoGit.0.0.5/node_modules/nogit/package.json
+  detection_source: packages/NoGit.0.0.5/node_modules/nogit/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+  vulnerabilities:
+  - name: ini before 1.3.6 vulnerable to Prototype Pollution via ini.parse
+    cve_id: CVE-2020-7788
+    cve_url: https://github.com/advisories/GHSA-qqgx-2p2h-9c37
+    detected_date: Aug 22
+    severity: high
+    first_patched: 1.3.6
+- name: isbinaryfile
+  description: Detects if a file is binary in Node.js
+  package_url: https://www.npmjs.com/isbinaryfile
+  version: 0.1.9
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18423/default_d4c8c48d3b66244e10004fbefa66cfaab1e306e5.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/NoGit.0.0.5/node_modules/nogit/node_modules/archiver/node_modules/file-utils/package.json
+  detection_source: packages/NoGit.0.0.5/node_modules/nogit/node_modules/archiver/node_modules/file-utils/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+- name: json-stringify-safe
+  description: Like JSON.stringify, but doesn't blow up on circular refs
+  package_url: https://www.npmjs.com/json-stringify-safe
+  version: 5.0.0
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16908/default_9d2cf1136959e6b2caecf3db7c29f90a2e3bb587.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/Npm.1.4.4/node_modules/npm/node_modules/request/package.json
+  detection_source: packages/Npm.1.4.4/node_modules/npm/node_modules/request/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+- name: lab
+  description: Test utility
+  package_url: https://www.npmjs.com/lab
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16367/default_22cf6cee54c697b5a223902962cc57a55ee80be9.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/Npm.1.4.4/node_modules/npm/node_modules/request/node_modules/hawk/node_modules/boom/package.json
+  detection_source: packages/Npm.1.4.4/node_modules/npm/node_modules/request/node_modules/hawk/node_modules/boom/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+- name: lodash.defaults
+  description: The lodash method `_.defaults` exported as a module
+  package_url: https://www.npmjs.com/lodash.defaults
+  version: 2.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17134/default_9746cbb559e39df4afd8298f9a252dff8519e646.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/NoGit.0.0.5/node_modules/nogit/node_modules/archiver/node_modules/zip-stream/package.json
+  detection_source: packages/NoGit.0.0.5/node_modules/nogit/node_modules/archiver/node_modules/zip-stream/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+- name: lodash.isobject
+  description: The modern build of lodash’s `_.isObject` as a module
+  package_url: https://www.npmjs.com/lodash.isobject
+  version: 2.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17499/default_1d2902e8f9c84259702671591379572493b9009b.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/NoGit.0.0.5/node_modules/nogit/node_modules/archiver/node_modules/zip-stream/node_modules/lodash.defaults/node_modules/lodash.keys/package.json
+  detection_source: packages/NoGit.0.0.5/node_modules/nogit/node_modules/archiver/node_modules/zip-stream/node_modules/lodash.defaults/node_modules/lodash.keys/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+- name: lodash.keys
+  description: The lodash method `_.keys` exported as a module
+  package_url: https://www.npmjs.com/lodash.keys
+  version: 2.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18331/default_cef8b737c55fccc3604e91ce246aef30fc604c73.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/NoGit.0.0.5/node_modules/nogit/node_modules/archiver/node_modules/zip-stream/node_modules/lodash.defaults/package.json
+  detection_source: packages/NoGit.0.0.5/node_modules/nogit/node_modules/archiver/node_modules/zip-stream/node_modules/lodash.defaults/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+- name: lru-cache
+  description: A cache object that deletes the least-recently-used items
+  package_url: https://www.npmjs.com/lru-cache
+  version: 2.5.0
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16386/default_4cc3f31b8c64a6268fc123f0965a09d1b11180af.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/Npm.1.4.4/node_modules/npm/package.json
+  detection_source: packages/Grunt.0.1.13/node_modules/grunt-cli/node_modules/findup-sync/node_modules/glob/node_modules/minimatch/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+- name: mime
+  description: A comprehensive library for mime-type mapping
+  package_url: https://www.npmjs.com/mime
+  version: 1.2.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16182/default_ac04a744873b460c4ef30a7450ed0c83223640ab.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/Npm.1.4.4/node_modules/npm/node_modules/request/node_modules/form-data/package.json
+  detection_source: packages/Npm.1.4.4/node_modules/npm/node_modules/request/node_modules/form-data/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+  vulnerabilities:
+  - name: mime Regular Expression Denial of Service when MIME lookup performed on
+      untrusted user input
+    cve_id: CVE-2017-16138
+    cve_url: https://github.com/advisories/GHSA-wrvr-8mpx-r7pp
+    detected_date: Aug 22
+    severity: high
+    first_patched: 1.4.1
+- name: minimatch
+  description: A glob matcher in javascript
+  package_url: https://www.npmjs.com/minimatch
+  version: 0.2.11
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16195/default_180418c6fa6cdb8f7a3500f84a8fedb884fcb3fa.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/Grunt.0.1.13/node_modules/grunt-cli/node_modules/findup-sync/node_modules/glob/package.json
+  detection_source: packages/Grunt.0.1.13/node_modules/grunt-cli/node_modules/findup-sync/node_modules/glob/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+  vulnerabilities:
+  - name: minimatch ReDoS vulnerability
+    cve_id: CVE-2022-3517
+    cve_url: https://github.com/advisories/GHSA-f8q6-p94x-37v3
+    detected_date: Oct 21
+    severity: high
+    first_patched: 3.0.5
+  - name: Regular Expression Denial of Service in minimatch
+    cve_id: CVE-2016-10540
+    cve_url: https://github.com/advisories/GHSA-hxm2-r34f-qmc5
+    detected_date: Aug 22
+    severity: high
+    first_patched: 3.0.2
+- name: mkdirp
+  description: Recursively mkdir, like `mkdir -p`
+  package_url: https://www.npmjs.com/mkdirp
+  version: 0.3.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15881/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/NoGit.0.0.5/node_modules/nogit/node_modules/archiver/node_modules/zip-stream/package.json
+  detection_source: packages/Grunt.0.1.13/node_modules/grunt-cli/node_modules/findup-sync/node_modules/glob/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+- name: node-gyp
+  description: Node.js native addon build tool
+  package_url: https://www.npmjs.com/node-gyp
+  version: 0.12.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16669/default_6dad4e42e12d47cc6edfbdea036dae12f91abebb.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/Npm.1.4.4/node_modules/npm/package.json
+  detection_source: packages/Npm.1.4.4/node_modules/npm/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+- name: node-uuid
+  description: Rigorous implementation of RFC4122
+  package_url: https://www.npmjs.com/node-uuid
+  version: 1.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16142/default_ac04a744873b460c4ef30a7450ed0c83223640ab.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/Npm.1.4.4/node_modules/npm/node_modules/request/node_modules/http-signature/package.json
+  detection_source: packages/Npm.1.4.4/node_modules/npm/node_modules/request/node_modules/http-signature/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+  vulnerabilities:
+  - name: Insecure Entropy Source - Math.random() in node-uuid
+    cve_id: CVE-2015-8851
+    cve_url: https://github.com/advisories/GHSA-265q-28rp-chq5
+    detected_date: Aug 22
+    severity: high
+    first_patched: 1.4.4
+- name: nodeunit
+  description: Easy unit testing for node.js and the browser
+  package_url: https://www.npmjs.com/nodeunit
+  version: 0.7.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16216/default_180418c6fa6cdb8f7a3500f84a8fedb884fcb3fa.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/NoGit.0.0.5/node_modules/nogit/node_modules/archiver/node_modules/lazystream/package.json
+  detection_source: packages/NoGit.0.0.5/node_modules/nogit/node_modules/archiver/node_modules/lazystream/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+- name: nopt
+  description: Option parsing for Node, supporting types, shorthands, etc
+  package_url: https://www.npmjs.com/nopt
+  version: 1.0.10
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16662/default_cc0f40a737548852d2ee666c132c258c9a2c0cad.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/Grunt.0.1.13/node_modules/grunt-cli/package.json
+  detection_source: packages/Grunt.0.1.13/node_modules/grunt-cli/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+- name: normalize-package-data
+  description: Normalizes data that can be found in package.json files
+  package_url: https://www.npmjs.com/normalize-package-data
+  version: 0.2.9
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18641/default_47cf9c81f50087b8f8785ca33f1ee4b3b136eb76.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/Npm.1.4.4/node_modules/npm/node_modules/read-package-json/package.json
+  detection_source: packages/Npm.1.4.4/node_modules/npm/node_modules/read-package-json/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+- name: npmlog
+  description: Logger for npm
+  package_url: https://www.npmjs.com/npmlog
+  version: 0.0.6
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16667/default_cc0f40a737548852d2ee666c132c258c9a2c0cad.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/Npm.1.4.4/node_modules/npm/node_modules/npm-install-checks/package.json
+  detection_source: packages/Npm.1.4.4/node_modules/npm/node_modules/node-gyp/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+- name: once
+  description: Run a function exactly one time
+  package_url: https://www.npmjs.com/once
+  version: 1.3.0
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16859/default_884deeafc4d4b680b6d9cb7e3759ba2db025e8e7.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/Npm.1.4.4/node_modules/npm/node_modules/npmconf/package.json
+  detection_source: packages/Npm.1.4.4/node_modules/npm/node_modules/npmconf/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+- name: opener
+  description: Opens stuff
+  package_url: https://www.npmjs.com/opener
+  version: 1.3.0
+  license: WTFPL,MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16917/default_277303773c2bdb575ee8f4bfe869f0a33d6755b2.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/Npm.1.4.4/node_modules/npm/package.json
+  detection_source: packages/Npm.1.4.4/node_modules/npm/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+- name: osenv
+  description: Look up environment settings specific to different operating systems
+  package_url: https://www.npmjs.com/osenv
+  version: 0.0.3
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17313/default_6afdd1bc7e3815a18b56c31d0b4acf372c00f6e2.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/Npm.1.4.4/node_modules/npm/node_modules/npmconf/package.json
+  detection_source: packages/Npm.1.4.4/node_modules/npm/node_modules/node-gyp/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+- name: punycode
+  description: A robust Punycode converter that fully complies to RFC 3492 and RFC
+    5891
+  package_url: https://www.npmjs.com/punycode
+  version: 0.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18282/default_807e706fb4295a0b54623f7e1643199bb97a2590.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/Npm.1.4.4/node_modules/npm/node_modules/request/node_modules/tough-cookie/package.json
+  detection_source: packages/Npm.1.4.4/node_modules/npm/node_modules/request/node_modules/tough-cookie/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+- name: qs
+  description: A querystring parser that supports nesting and arrays
+  package_url: https://www.npmjs.com/qs
+  version: 0.6.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16125/default_def3edb85d7fbd20200a5cd7d0a1679e31bc8b3d.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/Npm.1.4.4/node_modules/npm/node_modules/request/package.json
+  detection_source: packages/Npm.1.4.4/node_modules/npm/node_modules/request/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+  vulnerabilities:
+  - name: qs vulnerable to Prototype Pollution
+    cve_id: CVE-2022-24999
+    cve_url: https://github.com/advisories/GHSA-hrpp-h998-j3pp
+    detected_date: Dec 7
+    severity: high
+    first_patched: 6.2.4
+  - name: High severity vulnerability that affects qs
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-crvj-3gj9-gm2p
+    detected_date: Aug 22
+    severity: high
+    first_patched: 1.0.0
+  - name: Denial-of-Service Memory Exhaustion in qs
+    cve_id: CVE-2014-7191
+    cve_url: https://github.com/advisories/GHSA-jjv7-qpx3-h62q
+    detected_date: Aug 22
+    severity: high
+    first_patched: 1.0.0
+  - name: Denial-of-Service Extended Event Loop Blocking in qs
+    cve_id: CVE-2014-10064
+    cve_url: https://github.com/advisories/GHSA-f9cm-p3w6-xvr3
+    detected_date: Aug 22
+    severity: high
+    first_patched: 1.0.0
+  - name: Prototype Pollution Protection Bypass in qs
+    cve_id: CVE-2017-1000048
+    cve_url: https://github.com/advisories/GHSA-gqgv-6jq5-jjj9
+    detected_date: Aug 22
+    severity: high
+    first_patched: 6.0.4
+- name: qunitjs
+  description: An easy-to-use JavaScript Unit Testing framework
+  package_url: https://www.npmjs.com/qunitjs
+  version: 1.11.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16684/default_e3c0987b80983280e46e6e1723fcfcff50fa4824.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/Npm.1.4.4/node_modules/npm/node_modules/request/node_modules/tough-cookie/node_modules/punycode/package.json
+  detection_source: packages/Npm.1.4.4/node_modules/npm/node_modules/request/node_modules/tough-cookie/node_modules/punycode/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+- name: read
+  description: Read
+  package_url: https://www.npmjs.com/read
+  version: 1.0.1
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17342/default_66bbb2a75a0234b1bfceaa99b8e82825fa7b8284.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/Npm.1.4.4/node_modules/npm/node_modules/init-package-json/package.json
+  detection_source: packages/Npm.1.4.4/node_modules/npm/node_modules/init-package-json/node_modules/promzard/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+- name: readable-stream
+  description: Streams3
+  package_url: https://www.npmjs.com/readable-stream
+  version: 1.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16322/default_97104dc50154593d2dde1d791400955934c9c715.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/NoGit.0.0.5/node_modules/nogit/node_modules/archiver/node_modules/lazystream/package.json
+  detection_source: packages/NoGit.0.0.5/node_modules/nogit/node_modules/archiver/node_modules/lazystream/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+- name: request
+  description: Simplified HTTP request client
+  package_url: https://www.npmjs.com/request
+  version: 2.25.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15823/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/Npm.1.4.4/node_modules/npm/node_modules/npm-registry-client/package.json
+  detection_source: packages/Npm.1.4.4/node_modules/npm/node_modules/node-gyp/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+  vulnerabilities:
+  - name: Server-Side Request Forgery in Request
+    cve_id: CVE-2023-28155
+    cve_url: https://github.com/advisories/GHSA-p8p7-x288-28g6
+    detected_date: Mar 17
+    severity: moderate
+    first_patched: 
+  - name: Remote Memory Exposure in request
+    cve_id: CVE-2017-16026
+    cve_url: https://github.com/advisories/GHSA-7xfp-9c55-5vqj
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 2.68.0
+- name: resolve
+  description: Resolve like require.resolve
+  package_url: https://www.npmjs.com/resolve
+  version: 0.3.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16128/default_63a34654baee757196ddff2457bd1c9a0dfb7287.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/Grunt.0.1.13/node_modules/grunt-cli/package.json
+  detection_source: packages/Grunt.0.1.13/node_modules/grunt-cli/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+- name: retry
+  description: Abstraction for exponential and custom retry strategies for failed
+    operations
+  package_url: https://www.npmjs.com/retry
+  version: 0.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18127/image.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/Npm.1.4.4/node_modules/npm/node_modules/npm-registry-client/package.json
+  detection_source: packages/Npm.1.4.4/node_modules/npm/node_modules/npm-registry-client/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+- name: rimraf
+  description: A deep deletion module for node
+  package_url: https://www.npmjs.com/rimraf
+  version: 2.2.2
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15807/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/NoGit.0.0.5/node_modules/nogit/node_modules/archiver/node_modules/file-utils/package.json
+  detection_source: packages/Grunt.0.1.13/node_modules/grunt-cli/node_modules/findup-sync/node_modules/glob/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+- name: semver
+  description: The semantic version parser used by npm
+  package_url: https://www.npmjs.com/semver
+  version: 2.2.1
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18809/default_dad3dc9dde4b82dc2a7bd32aa091165887abe57b.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/Npm.1.4.4/node_modules/npm/node_modules/node-gyp/package.json
+  detection_source: packages/Npm.1.4.4/node_modules/npm/node_modules/init-package-json/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+  vulnerabilities:
+  - name: Regular Expression Denial of Service in semver
+    cve_id: CVE-2015-8855
+    cve_url: https://github.com/advisories/GHSA-x6fg-f45m-jf5q
+    detected_date: Aug 22
+    severity: high
+    first_patched: 4.3.2
+  - name: semver vulnerable to Regular Expression Denial of Service
+    cve_id: CVE-2022-25883
+    cve_url: https://github.com/advisories/GHSA-c2qf-rxjj-qqgw
+    detected_date: Jun 23
+    severity: moderate
+    first_patched: 5.7.2
+- name: should
+  description: Test framework agnostic BDD-style assertions
+  package_url: https://www.npmjs.com/should
+  version: 0.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15871/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/NoGit.0.0.5/node_modules/nogit/node_modules/commander/package.json
+  detection_source: packages/NoGit.0.0.5/node_modules/nogit/node_modules/commander/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+- name: ssh2
+  description: SSH2 client and server modules written in pure JavaScript for node.js
+  package_url: https://www.npmjs.com/ssh2
+  version: 0.2.12
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16969/default_caea01ce44a5fd1bb200d8fc0f8f2a1695b4e569.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/NoGit.0.0.5/node_modules/nogit/node_modules/git-node/node_modules/git-node-platform/package.json
+  detection_source: packages/NoGit.0.0.5/node_modules/nogit/node_modules/git-node/node_modules/git-node-platform/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+  vulnerabilities:
+  - name: OS Command Injection in ssh2
+    cve_id: CVE-2020-26301
+    cve_url: https://github.com/advisories/GHSA-652h-xwhf-q4h6
+    detected_date: Sep 22
+    severity: high
+    first_patched: 1.4.0
+- name: tap
+  description: A Test-Anything-Protocol library for JavaScript
+  package_url: https://www.npmjs.com/tap
+  version: 0.3.0
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16027/default_af9df0bc9fa88191d2fe609204c5bd7599c1a797.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/Grunt.0.1.13/node_modules/grunt-cli/node_modules/findup-sync/node_modules/glob/node_modules/minimatch/node_modules/sigmund/package.json
+  detection_source: packages/Grunt.0.1.13/node_modules/grunt-cli/node_modules/findup-sync/node_modules/glob/node_modules/minimatch/node_modules/lru-cache/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+- name: tape
+  description: Tap-producing test harness for node and browsers
+  package_url: https://www.npmjs.com/tape
+  version: 0.2.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15856/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/NoGit.0.0.5/node_modules/nogit/node_modules/git-node/node_modules/js-git/node_modules/git-pack-codec/node_modules/varint/package.json
+  detection_source: packages/NoGit.0.0.5/node_modules/nogit/node_modules/git-node/node_modules/js-git/node_modules/git-pack-codec/node_modules/varint/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+- name: tar
+  description: Tar for node
+  package_url: https://www.npmjs.com/tar
+  version: 0.1.19
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16466/default_fc6e1fc17e404d936593b5b901d67abb3386daa3.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/Npm.1.4.4/node_modules/npm/package.json
+  detection_source: packages/Npm.1.4.4/node_modules/npm/node_modules/node-gyp/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+  vulnerabilities:
+  - name: Arbitrary File Creation/Overwrite on Windows via insufficient relative path
+      sanitization
+    cve_id: CVE-2021-37713
+    cve_url: https://github.com/advisories/GHSA-5955-9wpr-37jh
+    detected_date: Sep 1
+    severity: high
+    first_patched: 4.4.18
+  - name: Arbitrary File Overwrite in tar
+    cve_id: CVE-2018-20834
+    cve_url: https://github.com/advisories/GHSA-j44m-qm6p-hp7m
+    detected_date: Aug 22
+    severity: high
+    first_patched: 2.2.2
+  - name: Symlink Arbitrary File Overwrite in tar
+    cve_id: CVE-2015-8860
+    cve_url: https://github.com/advisories/GHSA-gfjr-3jmm-4g9v
+    detected_date: Aug 22
+    severity: high
+    first_patched: 2.0.0
+  - name: Arbitrary File Creation/Overwrite due to insufficient absolute path sanitization
+    cve_id: CVE-2021-32804
+    cve_url: https://github.com/advisories/GHSA-3jfq-g458-7qm9
+    detected_date: Aug 22
+    severity: high
+    first_patched: 3.2.2
+- name: text-table
+  description: Borderless text tables with alignment
+  package_url: https://www.npmjs.com/text-table
+  version: 0.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17277/default_03da3f7f53e439ab3b23ec47828b2f3229885efd.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/Npm.1.4.4/node_modules/npm/package.json
+  detection_source: packages/Npm.1.4.4/node_modules/npm/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+- name: touch
+  description: Like touch
+  package_url: https://www.npmjs.com/touch
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17029/default_8ef738cb63f629c8e87903029b82b45840ab75a3.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/Npm.1.4.4/node_modules/npm/node_modules/lockfile/package.json
+  detection_source: packages/Npm.1.4.4/node_modules/npm/node_modules/lockfile/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+- name: tough-cookie
+  description: RFC6265 Cookies and Cookie Jar for node.js
+  package_url: https://www.npmjs.com/tough-cookie
+  version: 0.9.15
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17146/default_9746cbb559e39df4afd8298f9a252dff8519e646.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/Npm.1.4.4/node_modules/npm/node_modules/request/package.json
+  detection_source: packages/Npm.1.4.4/node_modules/npm/node_modules/request/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+  vulnerabilities:
+  - name: Regular Expression Denial of Service in tough-cookie
+    cve_id: CVE-2017-15010
+    cve_url: https://github.com/advisories/GHSA-g7q5-pjjr-gqvp
+    detected_date: Aug 22
+    severity: high
+    first_patched: 2.3.3
+  - name: tough-cookie Prototype Pollution vulnerability
+    cve_id: CVE-2023-26136
+    cve_url: https://github.com/advisories/GHSA-72xf-g2v4-qvf3
+    detected_date: Jul 8
+    severity: moderate
+    first_patched: 4.1.3
+  - name: ReDoS via long string of semicolons in tough-cookie
+    cve_id: CVE-2016-1000232
+    cve_url: https://github.com/advisories/GHSA-qhv9-728r-6jqg
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 2.3.0
+- name: uglify-js
+  description: JavaScript parser
+  package_url: https://www.npmjs.com/uglify-js
+  version: 2.3.6
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15900/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/Npm.1.4.4/node_modules/npm/node_modules/semver/package.json
+  detection_source: packages/Npm.1.4.4/node_modules/npm/node_modules/request/node_modules/form-data/node_modules/async/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+  vulnerabilities:
+  - name: Incorrect Handling of Non-Boolean Comparisons During Minification in uglify-js
+    cve_id: CVE-2015-8857
+    cve_url: https://github.com/advisories/GHSA-34r7-q49f-h37c
+    detected_date: Aug 22
+    severity: critical
+    first_patched: 2.4.24
+  - name: High severity vulnerability that affects uglify-js
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-g6f4-j6c2-w3p3
+    detected_date: Aug 22
+    severity: high
+    first_patched: 2.4.24
+  - name: Regular Expression Denial of Service in uglify-js
+    cve_id: CVE-2015-8858
+    cve_url: https://github.com/advisories/GHSA-c9f4-xj24-8jqx
+    detected_date: Aug 22
+    severity: high
+    first_patched: 2.6.0
+- name: vows
+  description: Asynchronous BDD &amp; continuous integration for node.js
+  package_url: https://www.npmjs.com/vows
+  version: 0.6.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16365/default_4cc3f31b8c64a6268fc123f0965a09d1b11180af.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/Npm.1.4.4/node_modules/npm/node_modules/request/node_modules/tough-cookie/package.json
+  detection_source: packages/NoGit.0.0.5/node_modules/nogit/node_modules/archiver/node_modules/file-utils/node_modules/iconv-lite/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
+- name: which
+  description: Like which
+  package_url: https://www.npmjs.com/which
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16482/default_482cf308e8fc087eee8e154f29cc142c834abc51.png
+  detection_source_url: https://github.com/larabecker/Html5GroupIntroToEmberJsAug20/blob/master/packages/Npm.1.4.4/node_modules/npm/node_modules/node-gyp/package.json
+  detection_source: packages/Npm.1.4.4/node_modules/npm/node_modules/node-gyp/package.json
+  last_updated_by: Justin Smith
+  last_updated_on: 2014-08-21 02:07:05.000000000 Z
